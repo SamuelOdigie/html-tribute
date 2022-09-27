@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration-line: underline;
+}
+h3{
+    color:crimson;
+    text-align: center;
+
+}
+p{
+    font-size: larger;
+ word-spacing: 2mm;
+}
+body{
+    background-color: darkkhaki;
+}
